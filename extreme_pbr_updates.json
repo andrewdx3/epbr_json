@@ -8,7 +8,7 @@
 		"Twitter": "https://twitter.com/AndrewD80747502"
 	},
 	"updates": {
-		"3.3.340": {
+		"4.3.340": {
 			"date": "22_04_2021",
 			"name": "Extreme PBR",
 			"edition": "Evo",
@@ -17,7 +17,7 @@
 				"Bugfix": "Fixed version update check"
 			}
 		},
-		"3.3.350": {
+		"4.3.300": {
 			"date": "22_04_2021",
 			"name": "Extreme PBR",
 			"edition": "Evo",
